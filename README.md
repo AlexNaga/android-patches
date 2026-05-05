@@ -62,4 +62,7 @@ adb shell pm install-commit $SESSION
 
 ## Alternative: Morphe Manager (on-device)
 
-Copy the `.mpp` file to your phone and load it as a local patch source in Morphe Manager.
+Open this link on your phone to add the source in Morphe Manager:
+https://morphe.software/add-source?github=AlexNaga/android-patches
+
+Or copy the `.mpp` file to your phone and load it as a local patch source.
