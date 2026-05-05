@@ -1,5 +1,5 @@
 {
-  "version": "v1.29.0",
+  "version": "1.30.0",
   "patches": [
     {
       "name": "Dark mode",
