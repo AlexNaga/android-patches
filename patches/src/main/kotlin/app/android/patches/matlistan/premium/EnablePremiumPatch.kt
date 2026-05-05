@@ -1,4 +1,4 @@
-package patches.matlistan.premium
+package app.android.patches.matlistan.premium
 
 import app.morphe.patcher.patch.AppTarget
 import app.morphe.patcher.patch.Compatibility

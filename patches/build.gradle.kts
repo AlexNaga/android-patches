@@ -1,4 +1,4 @@
-group = "patches"
+group = "app.android.patches"
 
 patches {
     about {
