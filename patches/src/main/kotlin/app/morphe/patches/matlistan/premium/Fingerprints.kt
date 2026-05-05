@@ -1,4 +1,4 @@
-package app.android.patches.matlistan.premium
+package app.morphe.patches.matlistan.premium
 
 import app.morphe.patcher.Fingerprint
 

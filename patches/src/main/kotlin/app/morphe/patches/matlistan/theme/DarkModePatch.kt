@@ -1,4 +1,4 @@
-package app.android.patches.matlistan.theme
+package app.morphe.patches.matlistan.theme
 
 import app.morphe.patcher.patch.AppTarget
 import app.morphe.patcher.patch.Compatibility
